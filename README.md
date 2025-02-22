@@ -3,6 +3,9 @@ Temp Track is an Android application that fetches real-time weather data via an 
 
 Features
 ✅ Fetches live weather data via API
+
 ✅ Displays temperature, humidity, latitude, and other key factors
+
 ✅ Clean and responsive UI
+
 ✅ Built using Java and XML
